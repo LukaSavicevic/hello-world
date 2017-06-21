@@ -1,2 +1,5 @@
 # hello-world
-This is test repository.
+
+Hi There!
+
+My name is Luka. I'm Java developer and i like this source code storage. 
